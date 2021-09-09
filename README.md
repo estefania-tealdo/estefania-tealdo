@@ -1,7 +1,7 @@
 ## Hi fellow `<developers/>`, this is Estefania 👋 
 _____________ 
 
-Machine Learning Engineer 👩‍💻  |  Data-Driven Engineer 📊  |  MSc Computational Science @ [TUM](https://www.tum.de/en/) 🎓 | in Germany 🇩🇪
+Machine Learning  👩‍💻  |  Data Science 📊  |  MSc Computational Science @ [TUM](https://www.tum.de/en/) 🎓 | in Germany 🇩🇪
 ____________
 
 
