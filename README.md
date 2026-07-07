@@ -1,7 +1,7 @@
 ## Hi fellow `<developers/>`, this is Estefania 👋 
 _____________ 
 
-Data Science 📊  | Machine Learning  👩‍💻  |    MSc Computational Science @ [TUM](https://www.tum.de/en/) 🎓 | in Germany 🇩🇪
+Data Science 📊  | Data Engineering  👩‍💻  |    MSc Computational Science @ [TUM](https://www.tum.de/en/) 🎓 | in Germany 🇩🇪
 ____________
 
 
